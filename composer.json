@@ -1,0 +1,19 @@
+{
+    "name": "simplexi/greetr",
+    "description": "Greetr - A simple Laravel package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "irfan",
+            "email": "irfan@webdeveloper.dgtraffic.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    },
+    "require": {}
+}
